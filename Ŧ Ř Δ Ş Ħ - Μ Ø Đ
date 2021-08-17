@@ -1,0 +1,23 @@
+// ==UserScript==
+// @name         B3ST MOOMOO.IO M0D 0F TH3 N3XT Y34RS 2021/2022 Ŧ Ř Δ Ş Ħ - Μ Ø Đ
+// @namespace    Ŧ Ř Δ Ş Ħ - Μ Ø Đ By iC3PeaK MoDs (BrS Da ELT {| ELITE | MUNDIAL | HACKERS} )
+// @icon         https://cdn.discordapp.com/attachments/857107985612275752/869681291124150312/Project-1-_convert-video-online.com_-_1_.png
+// @version      TrAsH_V.20-(OfFiCiAl)
+// @description  try to take over the world!
+// @author       iC3PeaK  (ELT)
+// @match        *://moomoo.io/*
+// @match        *://sandbox.moomoo.io/*
+// @match        *://dev.moomoo.io/*
+// @match        *://wc.moomoo.io/*
+// @match        *://anything.moomoo.io/*
+// @require      https://greasyfork.org/scripts/410512-sci-js-from-ksw2-center/code/scijs%20(from%20ksw2-center).js
+// @require      https://raw.githubusercontent.com/iC3PeaK-MoDs/iC3PeaK-MoDs-TRASH-MOD.com/main/mod%20v20
+// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @run-at       document-start
+// @grant        unsafeWindow
+// @grant        GM.setValue
+// @grant        GM.getValue
+// @grant        GM_addStyle
+// @grant        GM_addValueChangeListener
+// @grant        GM_removeValueChangeListener
+// ==/UserScript==
